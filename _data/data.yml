@@ -8,61 +8,57 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Long Nguyen-Vu
+    tagline: Machine Learning Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: hi@nguyenvulong.com
+    phone: +821O-2869-16O4
+    timezone: Seoul Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    website: nguyenvulong.com #do not add http://
+    linkedin: long-nguyen-vu
+    github: nguyenvulong
+    stack-overflow: 1511274/long # Number/Username, e.g. 123456/alandoe
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: Proficient
 
-        - idiom: French
-          level: Professional
+        - idiom: Korean
+          level: Intermediate
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Vietnamese
+          level: native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
         - item: Snowboarding
           link:
 
-        - item: Cooking
+        - item: Gaming
+          link:
+
+        - item: Walking
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Long Nguyen-Vu received his B.S. degree in computer science from 
+      the National University of Information Technology in Ho Chi Minh, Vietnam,
+      and both his M.S. and Ph.D. degrees in engineering from the University of 
+      Soongsil. Prior to joining the Communication Network Security Lab at Soongsil
+      University, Long served as a system engineer at VNG, a leading game company 
+      in Vietnam. His research interests encompass Information Security, Applied 
+      Machine Learning, and Cloud Computing. During his postdoctoral research, he 
+      is actively engaged in several projects exploring audio deepfake generation 
+      and detection. 
+     
 education:
     title: Education
     info:
