@@ -9,13 +9,13 @@ sidebar:
 
     # Profile information
     name: Long Nguyen-Vu
-    tagline: Machine Learning Engineer
+    tagline: Machine Learning Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hi@nguyenvulong.com
-    phone: +821O-2869-16O4
-    timezone: Seoul Timezone
+    email: longnv.work@gmail.com
+    phone: +82-10-2869-1604
+    timezone: Asia/Seoul
     citizenship:
     website: nguyenvulong.com #do not add http://
     linkedin: long-nguyen-vu
@@ -32,140 +32,101 @@ sidebar:
           level: Intermediate
 
         - idiom: Vietnamese
-          level: native
+          level: Native
 
     interests:
-      title: Interests
+      title: Expertise
       info:
-        - item: Snowboarding
-          link:
-
-        - item: Gaming
-          link:
-
-        - item: Walking
-          link:
+        - item: Machine Learning
+        - item: Deep Learning
+        - item: Linux System Administration
+        - item: Container Technology
+        - item: Audio Deepfakes
+        - item: Information Security
 
 career-profile:
     title: Career Profile
     summary: |
-      Long Nguyen-Vu received his B.S. degree in computer science from 
-      the National University of Information Technology in Ho Chi Minh, Vietnam,
-      and both his M.S. and Ph.D. degrees in engineering from the University of 
-      Soongsil. Prior to joining the Communication Network Security Lab at Soongsil
-      University, Long served as a system engineer at VNG, a leading game company 
-      in Vietnam. His research interests encompass Information Security, Applied 
-      Machine Learning, and Cloud Computing. During his postdoctoral research, he 
-      is actively engaged in several projects exploring audio deepfake generation 
-      and detection. 
-     
+      Versatile Engineer passionate about creating scalable AI-powered systems. Experienced in machine learning research,
+      system engineering, and information security. Currently focused on audio deepfake detection and generation, 
+      with expertise in developing secure and efficient AI solutions. Strong background in both academic research
+      and industrial applications.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Doctor of Engineering
+        university: Soongsil University
+        time: 2016 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Research focused on Information Security and Machine Learning applications.
+
+      - degree: Master of Engineering
+        university: Soongsil University
+        time: 2014 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Specialized in Computer Engineering and Security.
+
+      - degree: Bachelor of Science
+        university: National University of Information Technology
+        time: 2008 - 2012
+        details: |
+          Talent Program graduate with focus on Computer Science.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Postdoctoral Researcher
+        time: 2020 - 2023
+        company: AISRC - CNSL Lab, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Built an AI platform for machine learning practitioners
+          - Researched and implemented Audio Deepfake Generation and Detection models
+          - Wrote and reviewed scientific papers
+          - Developed solutions for anti-spoofing and synthetic speech detection
+          - Implemented defense mechanisms against adversarial attacks
+
+      - role: Founder, Researcher
+        time: 2015 - 2020
+        company: SuAn Security - CNSL Lab, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          - Built systems for analyzing Android applications
+          - Developed machine Learning-based malware detection solutions
+          - Collaborated with companies in Korea and US for security assessment
+          - Worked on NIST standardization projects
+          - Created cloud-based systems for Android Malware Analysis
+
+      - role: System Engineer
         time: 2012 - 2014
-        company: Amazon, London
+        company: VNG Corporation, Ho Chi Minh City
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Coordinated Database, APIs, Product, Security, and Datacenter operations
+          - Maintained and operated clusters of gaming servers
+          - Managed 50+ Linux-based gaming servers with 40,000 concurrent users
+          - Achieved zero critical incidents for six consecutive months
 
 certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+    title: Certifications
+    list:
+      - name: LinkedIn Skill Assessment
+        start: 2022
+        end: 2023
+        organization: LinkedIn
+        details: |
+          Certified in Machine Learning, Linux, Cybersecurity, Python, OOP
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      - name: gRPC [Golang] API & Microservices
+        start: 2022
+        organization: Udemy
+        
+      - name: CISCO CCNA
+        start: 2009
+        organization: Cisco
+
+      - name: Microsoft MCITP SA/SE
+        start: 2010
+        end: 2011
+        organization: Microsoft
 
 projects:
     title: Projects
@@ -214,48 +175,43 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Selected Publications
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "CHAWA: Overcoming Phase Anomalies in Sound Localization
+"
+        authors: L. Nguyen-VU, J. Lee
+        conference: IEEE Access, 2024
+      - title: "On the Defense of Spoofing Countermeasures against Adversarial Attacks"
+        authors: L. Nguyen-Vu, T.-P. Doan, M. Bui, K. Hong, and S. Jung
+        conference: IEEE Access, 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Empirical feature learning in application-based samples: A case study"
+        authors: L. Nguyen-Vu and S. Jung
+        conference: Journal of Computational Science, 2022
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "AdMat: A CNN-on-matrix approach to Android malware detection and classification"
+        authors: L. Nguyen-Vu and S. Jung
+        conference: IEEE Access, 2021
+
+      - title: "Android fragmentation in malware detection"
+        authors: L. Nguyen-Vu, J. Ahn, and S. Jung
+        conference: Computers & Security, 2019
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Technical Skills
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Machine Learning & Deep Learning
         level: 95%
-
-      - name: Ruby on Rails
+      - name: Python & PyTorch
+        level: 90%
+      - name: Linux System Administration
+        level: 90%
+      - name: Container Technologies
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Information Security
+        level: 85%
+      - name: Cloud Computing
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
